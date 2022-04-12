@@ -1,0 +1,16 @@
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.exe
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.deps.json
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.runtimeconfig.json
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.runtimeconfig.dev.json
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.dll
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\bin\Debug\net5.0\Pratica2.pdb
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.csproj.AssemblyReference.cache
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.AssemblyInfoInputs.cache
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.AssemblyInfo.cs
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.csproj.CoreCompileInputs.cache
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.dll
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\refint\Pratica2.dll
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.pdb
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\Pratica2.genruntimeconfig.cache
+D:\Usuario - Arquivo\Desktop\Pratica2\Pratica2\obj\Debug\net5.0\ref\Pratica2.dll
